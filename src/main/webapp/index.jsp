@@ -111,7 +111,7 @@
                     <div class="container">
                         <div class="carousel-caption relative">
                             <h1>Moon</h1>
-                            <span>FARMING COMPANY</span>
+                            <span>Farming Company</span>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
                             <a class="buynow" href="#about">About us</a><a class="buynow ggg" href="#">Get a quote</a>
